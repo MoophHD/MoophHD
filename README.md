@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am Danila, an enthusiastic Software Developer from Minsk - Belarus.
 
-I'm a student at **BSUIR** 🎓 
+I'm a student at **BSUIR** 🎓
 
 I mostly work with **React**, **NodeJS**, **MongoDB** and **vanilla js**.🍦
 
@@ -20,6 +20,10 @@ I mostly work with **React**, **NodeJS**, **MongoDB** and **vanilla js**.🍦
 
 - Write me an [Email](mailto:sizykhdanila@gmail.com) ✉️
 - Contact me on [Vkontakte](https://vk.com/danissimoe) 🌐
+
+--- AND --- 
+
+Check out [my student page](https://iis.bsuir.by/profile/5653) it's pretty rad
 
 <!--
 **MoophHD/MoophHD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
