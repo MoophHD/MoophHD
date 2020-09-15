@@ -8,11 +8,12 @@ I mostly work with **React**, **NodeJS**, **MongoDB** and **vanilla js**.🍦
 ### 📖 Knowledge
 
 <div>
-  <a><img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" height="70"></img></a>
-  <a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png" height="70"></img></a>
-  <a><img src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" height="70"></img></a>
-  <a><img src="https://duckduckgo.com/i/39ece087.png" height="70"></img></a>
-  <a><img src="https://duckduckgo.com/i/2474f7d4.png" height="70"></img></a>
+  <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" height="70"></img>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png" height="70"></img>
+  <img src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" height="70"></img>
+  <img src="https://duckduckgo.com/i/39ece087.png" height="70"></img>
+  <img src="https://duckduckgo.com/i/2474f7d4.png" height="70"></img>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Unity_Technologies_logo.svg/1280px-Unity_Technologies_logo.svg.png" height="70"></img>
 </div>
     
 
