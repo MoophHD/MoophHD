@@ -23,7 +23,7 @@ I mostly work with **React**, **NodeJS**, **MongoDB** and **vanilla js**.🍦
 
 --- AND --- 
 
-Check out [my student page](https://iis.bsuir.by/profile/5653) it's pretty rad
+Check out [my student page](https://iis.bsuir.by/profile/5653) it's pretty rad (it's really not)
 
 <!--
 **MoophHD/MoophHD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
